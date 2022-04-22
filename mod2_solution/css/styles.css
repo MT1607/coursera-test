@@ -2,10 +2,12 @@ body{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    
 }
 .container{
     width: 1200px;
     margin: 0 auto;
+    display: block;
 }
 .row{
     display: flex;
